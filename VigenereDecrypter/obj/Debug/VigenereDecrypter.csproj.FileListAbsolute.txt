@@ -1,0 +1,10 @@
+C:\Users\Jaydan\Desktop\Projects\VigenereDecrypter\bin\Debug\VigenereDecrypter.exe.config
+C:\Users\Jaydan\Desktop\Projects\VigenereDecrypter\bin\Debug\VigenereDecrypter.exe
+C:\Users\Jaydan\Desktop\Projects\VigenereDecrypter\bin\Debug\VigenereDecrypter.pdb
+C:\Users\Jaydan\Desktop\Projects\VigenereDecrypter\obj\Debug\VigenereDecrypter.csprojResolveAssemblyReference.cache
+C:\Users\Jaydan\Desktop\Projects\VigenereDecrypter\obj\Debug\VigenereDecrypter.Form1.resources
+C:\Users\Jaydan\Desktop\Projects\VigenereDecrypter\obj\Debug\VigenereDecrypter.Properties.Resources.resources
+C:\Users\Jaydan\Desktop\Projects\VigenereDecrypter\obj\Debug\VigenereDecrypter.csproj.GenerateResource.Cache
+C:\Users\Jaydan\Desktop\Projects\VigenereDecrypter\obj\Debug\VigenereDecrypter.exe
+C:\Users\Jaydan\Desktop\Projects\VigenereDecrypter\obj\Debug\VigenereDecrypter.pdb
+C:\Users\Jaydan\Desktop\Projects\VigenereDecrypter\obj\Debug\VigenereDecrypter.csproj.CoreCompileInputs.cache
